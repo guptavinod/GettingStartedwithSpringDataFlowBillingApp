@@ -64,7 +64,7 @@ The app has 3 microservices forming the data pipeline - as explained below:
 
 ###### 11) Check the Setup:
  - Go to dashboard i.e. localhost:9393 and you'll see application registered and stream created as intented.
- - To check the application logs go to the cindow where the SDF server was started at the end there will be the path to the folder something like this (in windows) :   Logs will be in C:\Users\moonesh\AppData\Local\Temp\spring-cloud-deployer-8031984761677234952\billing-stream-1579184372883\billing-stream.usage-sender
+ - To check the application logs go to the cindow where the SDF server was started at the end there will be the path to the folder something like this (in windows) :   Logs will be in /tmp/spring-cloud-deployer-879212826741345444/billing-stream-1579182981048/billing-stream.usage-sender
 
 ###### 12) References 
  - [View](https://dataflow.spring.io/docs/stream-developer-guides/streams/standalone-stream-kafka/).
